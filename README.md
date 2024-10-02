@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Pavel 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+student" alt="Typing SVG" /></h3>
+<h1 align="center">Hi there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></h3>
+
 
 <h2>✨Сurrent activities</h2>
 
-- 📖 I’m currently studying software engineering at ITMO University (3rd grade)
+- 📖 I’m currently studying <a href="https://edu.itmo.ru/ru/specialty/sub/42537/">Computer Science and Computing Hardware</a> at ITMO University (junior year 3/4)
 - 🔭 I’m currently working on some pet projects
 - 🌱 I’m currently learning python, machine learning, web, java, and more
 
